@@ -1,0 +1,38 @@
+$ export SN_INSTANCE=dev486328
+$ export SN_USER=wh.api.integration
+$ export SN_PASS='********'        # set locally, never committed
+$ curl -s -o /dev/null -w "%{http_code}\n" -u "$SN_USER:$SN_PASS" "https://dev486328.service-now.com/api/now/table/incident?sysparm_limit=1"
+200
+$ python3 scripts/create_incidents.py
+Created INC0010006: No Wi-Fi signal in room 3014
+Created INC0010007: Wi-Fi drops every few minutes on floor 2
+Created INC0010008: No Wi-Fi signal in room 3014
+Created INC0010009: Lab printer shows offline
+Created INC0010010: Front desk printer jammed
+Created INC0010011: Locked out of university account
+Created INC0010012: No Wi-Fi signal in room 3014
+Created INC0010013: Entire building lost internet
+Created INC0010014: Locked out of university account
+Created INC0010015: No Wi-Fi signal in room 3014
+Created INC0010016: Lab printer shows offline
+Created INC0010017: Front desk printer jammed
+Created INC0010018: Locked out of university account
+Created INC0010019: No Wi-Fi signal in room 3014
+Created INC0010020: No Wi-Fi signal in room 3014
+Created INC0010021: Wi-Fi drops every few minutes on floor 2
+Created INC0010022: Locked out of university account
+Created INC0010023: Wi-Fi drops every few minutes on floor 2
+Created INC0010024: Front desk PC will not boot
+Created INC0010025: Lab printer shows offline
+Created INC0010026: Wi-Fi drops every few minutes on floor 2
+Created INC0010027: Locked out of university account
+Created INC0010028: Wi-Fi drops every few minutes on floor 2
+Created INC0010029: Wi-Fi drops every few minutes on floor 2
+Created INC0010030: Front desk printer jammed
+Created INC0010031: Front desk printer jammed
+Created INC0010032: Locked out of university account
+Created INC0010033: Lab printer shows offline
+Created INC0010034: Wi-Fi drops every few minutes on floor 2
+Created INC0010035: Locked out of university account
+
+Done: 30 of 30 incidents created.

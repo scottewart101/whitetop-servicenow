@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-23 20:31:21">
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="WH-CORE-SW01">c4cde260c370131055657242b401314f</child>
+<connection_strength>always</connection_strength>
+<parent display_value="WH-AP-1F">2d8e6aa0c370131055657242b401319e</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:49:01</sys_created_on>
+<sys_id>b9677aa0c3b0131055657242b40131d9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:49:01</sys_updated_on>
+<type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="WH-CORE-SW01">c4cde260c370131055657242b401314f</child>
+<connection_strength>always</connection_strength>
+<parent display_value="WH-AP-2F">279eeaa0c370131055657242b40131d9</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:49:15</sys_created_on>
+<sys_id>bd773ea0c3b0131055657242b4013140</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:49:15</sys_updated_on>
+<type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="WH-CORE-SW01">c4cde260c370131055657242b401314f</child>
+<connection_strength>always</connection_strength>
+<parent display_value="WH-AP-3F">feae6ea0c370131055657242b40131b2</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:49:34</sys_created_on>
+<sys_id>3c877ea0c3b0131055657242b4013190</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:49:34</sys_updated_on>
+<type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="WH-SRV-PRINT01">b0ce62e0c370131055657242b401317c</child>
+<connection_strength>always</connection_strength>
+<parent display_value="WH-PRN-LAB01">eede26e0c370131055657242b401311c</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:49:46</sys_created_on>
+<sys_id>2d97ba64c370131055657242b401312f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:49:46</sys_updated_on>
+<type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="WH-AP-1F">2d8e6aa0c370131055657242b401319e</child>
+<connection_strength>always</connection_strength>
+<parent display_value="Whitetop Hall Wi-Fi">a56d6a20c370131055657242b401311e</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:47:47</sys_created_on>
+<sys_id>1b07fe60c3b0131055657242b40131e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:47:47</sys_updated_on>
+<type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="WH-AP-2F">279eeaa0c370131055657242b40131d9</child>
+<connection_strength>always</connection_strength>
+<parent display_value="Whitetop Hall Wi-Fi">a56d6a20c370131055657242b401311e</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:48:30</sys_created_on>
+<sys_id>4237f2a0c3b0131055657242b4013149</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:48:30</sys_updated_on>
+<type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</type>
+</cmdb_rel_ci>
+<cmdb_rel_ci action="INSERT_OR_UPDATE">
+<child display_value="WH-AP-3F">feae6ea0c370131055657242b40131b2</child>
+<connection_strength>always</connection_strength>
+<parent display_value="Whitetop Hall Wi-Fi">a56d6a20c370131055657242b401311e</parent>
+<percent_outage/>
+<port/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:48:44</sys_created_on>
+<sys_id>42573aa0c3b0131055657242b401319e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:48:44</sys_updated_on>
+<type display_value="Depends on::Used by">1a9cb166f1571100a92eb60da2bce5c5</type>
+</cmdb_rel_ci>
+</unload>

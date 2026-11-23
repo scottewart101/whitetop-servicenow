@@ -1,0 +1,3564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-23 20:31:55">
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Accounts" name="WH Accounts">4e8389f2c36c131055657242b40131ca</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>inquiry</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-SRV-AUTH01">be0feaa0c370131055657242b40131ce</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010035</number>
+<opened_at>2026-11-23 19:54:38</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Locked out of university account</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:38</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>02760fecc3f0131055657242b4013174</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:38</sys_updated_on>
+<task_effective_number>INC0010035</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>02760fecc3f0131055657242b4013174</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:38</sys_created_on>
+<sys_id>0e760fecc3f0131055657242b40131a7</sys_id>
+<value>Auto-assigned to WH Accounts (support group for WH-SRV-AUTH01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>network</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-2F">279eeaa0c370131055657242b40131d9</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>2</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010034</number>
+<opened_at>2026-11-23 19:54:37</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>3</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Wi-Fi drops every few minutes on floor 2</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:37</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>bd760fecc3f0131055657242b401312a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:37</sys_updated_on>
+<task_effective_number>INC0010034</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>bd760fecc3f0131055657242b401312a</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:37</sys_created_on>
+<sys_id>bd760fecc3f0131055657242b401312c</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-AP-2F).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Hardware" name="WH Hardware">dc424572c36c131055657242b401319b</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>hardware</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-PRN-LAB01">eede26e0c370131055657242b401311c</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010033</number>
+<opened_at>2026-11-23 19:54:36</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Lab printer shows offline</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:36</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>7976cbecc3f0131055657242b40131a3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:36</sys_updated_on>
+<task_effective_number>INC0010033</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>7976cbecc3f0131055657242b40131a3</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:37</sys_created_on>
+<sys_id>7976cbecc3f0131055657242b40131a5</sys_id>
+<value>Auto-assigned to WH Hardware (support group for WH-PRN-LAB01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Accounts" name="WH Accounts">4e8389f2c36c131055657242b40131ca</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>inquiry</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-SRV-AUTH01">be0feaa0c370131055657242b40131ce</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010032</number>
+<opened_at>2026-11-23 19:54:36</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Locked out of university account</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:36</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>6576cbecc3f0131055657242b4013173</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:36</sys_updated_on>
+<task_effective_number>INC0010032</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>6576cbecc3f0131055657242b4013173</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:36</sys_created_on>
+<sys_id>6576cbecc3f0131055657242b4013175</sys_id>
+<value>Auto-assigned to WH Accounts (support group for WH-SRV-AUTH01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Hardware" name="WH Hardware">dc424572c36c131055657242b401319b</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>hardware</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-PRN-DESK01">9aee66e0c370131055657242b40131ef</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010031</number>
+<opened_at>2026-11-23 19:54:36</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Front desk printer jammed</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:36</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>2d76cbecc3f0131055657242b401311d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:36</sys_updated_on>
+<task_effective_number>INC0010031</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>2d76cbecc3f0131055657242b401311d</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:36</sys_created_on>
+<sys_id>2d76cbecc3f0131055657242b401311f</sys_id>
+<value>Auto-assigned to WH Hardware (support group for WH-PRN-DESK01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Hardware" name="WH Hardware">dc424572c36c131055657242b401319b</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>hardware</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-PRN-DESK01">9aee66e0c370131055657242b40131ef</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010030</number>
+<opened_at>2026-11-23 19:54:35</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Front desk printer jammed</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:35</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>51768becc3f0131055657242b40131e1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:35</sys_updated_on>
+<task_effective_number>INC0010030</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>51768becc3f0131055657242b40131e1</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:35</sys_created_on>
+<sys_id>51768becc3f0131055657242b40131e3</sys_id>
+<value>Auto-assigned to WH Hardware (support group for WH-PRN-DESK01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>network</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-2F">279eeaa0c370131055657242b40131d9</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>2</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010029</number>
+<opened_at>2026-11-23 19:54:34</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>3</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Wi-Fi drops every few minutes on floor 2</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>95768becc3f0131055657242b40131a4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:34</sys_updated_on>
+<task_effective_number>INC0010029</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>95768becc3f0131055657242b40131a4</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:34</sys_created_on>
+<sys_id>95768becc3f0131055657242b40131a6</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-AP-2F).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>network</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-2F">279eeaa0c370131055657242b40131d9</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>2</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010028</number>
+<opened_at>2026-11-23 19:54:34</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>3</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Wi-Fi drops every few minutes on floor 2</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>c9768becc3f0131055657242b4013167</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:34</sys_updated_on>
+<task_effective_number>INC0010028</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>c9768becc3f0131055657242b4013167</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:34</sys_created_on>
+<sys_id>c9768becc3f0131055657242b4013169</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-AP-2F).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Accounts" name="WH Accounts">4e8389f2c36c131055657242b40131ca</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>inquiry</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-SRV-AUTH01">be0feaa0c370131055657242b40131ce</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010027</number>
+<opened_at>2026-11-23 19:54:33</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Locked out of university account</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:33</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>8d768becc3f0131055657242b4013143</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:33</sys_updated_on>
+<task_effective_number>INC0010027</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>8d768becc3f0131055657242b4013143</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:33</sys_created_on>
+<sys_id>8d768becc3f0131055657242b4013145</sys_id>
+<value>Auto-assigned to WH Accounts (support group for WH-SRV-AUTH01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>network</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-2F">279eeaa0c370131055657242b40131d9</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>2</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010026</number>
+<opened_at>2026-11-23 19:54:33</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>3</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Wi-Fi drops every few minutes on floor 2</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:33</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>70768becc3f0131055657242b4013120</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:33</sys_updated_on>
+<task_effective_number>INC0010026</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>70768becc3f0131055657242b4013120</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:33</sys_created_on>
+<sys_id>70768becc3f0131055657242b4013122</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-AP-2F).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Hardware" name="WH Hardware">dc424572c36c131055657242b401319b</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>hardware</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-PRN-LAB01">eede26e0c370131055657242b401311c</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010025</number>
+<opened_at>2026-11-23 19:54:32</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Lab printer shows offline</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:32</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>34764becc3f0131055657242b40131fc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:32</sys_updated_on>
+<task_effective_number>INC0010025</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>34764becc3f0131055657242b40131fc</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:32</sys_created_on>
+<sys_id>34764becc3f0131055657242b40131fe</sys_id>
+<value>Auto-assigned to WH Hardware (support group for WH-PRN-LAB01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Hardware" name="WH Hardware">dc424572c36c131055657242b401319b</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>hardware</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-PC-DESK01">b1fee6e0c370131055657242b40131f2</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>2</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010024</number>
+<opened_at>2026-11-23 19:54:32</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>3</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Front desk PC will not boot</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:32</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>24764becc3f0131055657242b40131d8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:32</sys_updated_on>
+<task_effective_number>INC0010024</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>24764becc3f0131055657242b40131d8</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:32</sys_created_on>
+<sys_id>e4764becc3f0131055657242b40131da</sys_id>
+<value>Auto-assigned to WH Hardware (support group for WH-PC-DESK01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>network</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-2F">279eeaa0c370131055657242b40131d9</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>2</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010023</number>
+<opened_at>2026-11-23 19:54:31</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>3</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Wi-Fi drops every few minutes on floor 2</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:31</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>68764becc3f0131055657242b401319b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:31</sys_updated_on>
+<task_effective_number>INC0010023</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>68764becc3f0131055657242b401319b</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:31</sys_created_on>
+<sys_id>68764becc3f0131055657242b401319d</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-AP-2F).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Accounts" name="WH Accounts">4e8389f2c36c131055657242b40131ca</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>inquiry</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-SRV-AUTH01">be0feaa0c370131055657242b40131ce</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010022</number>
+<opened_at>2026-11-23 19:54:31</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Locked out of university account</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:31</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>9c764becc3f0131055657242b401315e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:31</sys_updated_on>
+<task_effective_number>INC0010022</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>9c764becc3f0131055657242b401315e</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:31</sys_created_on>
+<sys_id>9c764becc3f0131055657242b4013160</sys_id>
+<value>Auto-assigned to WH Accounts (support group for WH-SRV-AUTH01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>network</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-2F">279eeaa0c370131055657242b40131d9</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>2</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010021</number>
+<opened_at>2026-11-23 19:54:30</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>3</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Wi-Fi drops every few minutes on floor 2</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:30</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>10760becc3f0131055657242b40131e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:30</sys_updated_on>
+<task_effective_number>INC0010021</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>10760becc3f0131055657242b40131e4</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:30</sys_created_on>
+<sys_id>10760becc3f0131055657242b40131e6</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-AP-2F).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>network</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-3F">feae6ea0c370131055657242b40131b2</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>2</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010020</number>
+<opened_at>2026-11-23 19:54:30</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>2</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>No Wi-Fi signal in room 3014</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:30</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>88760becc3f0131055657242b40131b2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:30</sys_updated_on>
+<task_effective_number>INC0010020</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>1</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>88760becc3f0131055657242b40131b2</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:30</sys_created_on>
+<sys_id>88760becc3f0131055657242b40131b4</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-AP-3F).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>network</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-3F">feae6ea0c370131055657242b40131b2</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>2</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010019</number>
+<opened_at>2026-11-23 19:54:29</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>2</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>No Wi-Fi signal in room 3014</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:29</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>4c760becc3f0131055657242b4013174</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:29</sys_updated_on>
+<task_effective_number>INC0010019</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>1</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>4c760becc3f0131055657242b4013174</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:29</sys_created_on>
+<sys_id>4c760becc3f0131055657242b4013176</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-AP-3F).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Accounts" name="WH Accounts">4e8389f2c36c131055657242b40131ca</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>inquiry</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-SRV-AUTH01">be0feaa0c370131055657242b40131ce</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010018</number>
+<opened_at>2026-11-23 19:54:29</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Locked out of university account</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:29</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>7b660becc3f0131055657242b4013144</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:29</sys_updated_on>
+<task_effective_number>INC0010018</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>7b660becc3f0131055657242b4013144</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:29</sys_created_on>
+<sys_id>7b660becc3f0131055657242b4013146</sys_id>
+<value>Auto-assigned to WH Accounts (support group for WH-SRV-AUTH01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Hardware" name="WH Hardware">dc424572c36c131055657242b401319b</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>hardware</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-PRN-DESK01">9aee66e0c370131055657242b40131ef</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010017</number>
+<opened_at>2026-11-23 19:54:28</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Front desk printer jammed</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:28</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>3f660becc3f0131055657242b4013120</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:28</sys_updated_on>
+<task_effective_number>INC0010017</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>3f660becc3f0131055657242b4013120</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:28</sys_created_on>
+<sys_id>3f660becc3f0131055657242b4013122</sys_id>
+<value>Auto-assigned to WH Hardware (support group for WH-PRN-DESK01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Hardware" name="WH Hardware">dc424572c36c131055657242b401319b</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>hardware</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-PRN-LAB01">eede26e0c370131055657242b401311c</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010016</number>
+<opened_at>2026-11-23 19:54:28</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Lab printer shows offline</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:28</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>6366c7ecc3f0131055657242b40131e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:28</sys_updated_on>
+<task_effective_number>INC0010016</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>6366c7ecc3f0131055657242b40131e4</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:28</sys_created_on>
+<sys_id>ef66c7ecc3f0131055657242b40131fe</sys_id>
+<value>Auto-assigned to WH Hardware (support group for WH-PRN-LAB01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>network</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-3F">feae6ea0c370131055657242b40131b2</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>2</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010015</number>
+<opened_at>2026-11-23 19:54:27</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>2</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>No Wi-Fi signal in room 3014</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:27</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>6f66c7ecc3f0131055657242b4013199</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:27</sys_updated_on>
+<task_effective_number>INC0010015</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>1</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>6f66c7ecc3f0131055657242b4013199</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:27</sys_created_on>
+<sys_id>6f66c7ecc3f0131055657242b401319b</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-AP-3F).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Accounts" name="WH Accounts">4e8389f2c36c131055657242b40131ca</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>inquiry</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-SRV-AUTH01">be0feaa0c370131055657242b40131ce</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010014</number>
+<opened_at>2026-11-23 19:54:27</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Locked out of university account</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:27</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>d36687ecc3f0131055657242b40131ed</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:27</sys_updated_on>
+<task_effective_number>INC0010014</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>d36687ecc3f0131055657242b40131ed</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:27</sys_created_on>
+<sys_id>d36687ecc3f0131055657242b40131ef</sys_id>
+<value>Auto-assigned to WH Accounts (support group for WH-SRV-AUTH01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>network</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-CORE-SW01">c4cde260c370131055657242b401314f</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>1</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010013</number>
+<opened_at>2026-11-23 19:54:26</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>1</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Entire building lost internet</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:26</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>df6687ecc3f0131055657242b40131b6</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:27</sys_updated_on>
+<task_effective_number>INC0010013</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>1</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>df6687ecc3f0131055657242b40131b6</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:26</sys_created_on>
+<sys_id>536687ecc3f0131055657242b40131b9</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-CORE-SW01).</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>df6687ecc3f0131055657242b40131b6</element_id>
+<name>incident</name>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-11-23 19:54:27</sys_created_on>
+<sys_id>5f66c7ecc3f0131055657242b4013106</sys_id>
+<value>P1 alert sent to on-call.</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>network</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-3F">feae6ea0c370131055657242b40131b2</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>2</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010012</number>
+<opened_at>2026-11-23 19:54:25</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>2</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>No Wi-Fi signal in room 3014</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>8b6687ecc3f0131055657242b401315f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:25</sys_updated_on>
+<task_effective_number>INC0010012</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>1</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>8b6687ecc3f0131055657242b401315f</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:25</sys_created_on>
+<sys_id>8b6687ecc3f0131055657242b4013161</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-AP-3F).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Accounts" name="WH Accounts">4e8389f2c36c131055657242b40131ca</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>inquiry</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-SRV-AUTH01">be0feaa0c370131055657242b40131ce</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010011</number>
+<opened_at>2026-11-23 19:54:25</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Locked out of university account</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>ba6687ecc3f0131055657242b401313b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:25</sys_updated_on>
+<task_effective_number>INC0010011</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>ba6687ecc3f0131055657242b401313b</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:25</sys_created_on>
+<sys_id>7e6687ecc3f0131055657242b401313d</sys_id>
+<value>Auto-assigned to WH Accounts (support group for WH-SRV-AUTH01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Hardware" name="WH Hardware">dc424572c36c131055657242b401319b</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>hardware</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-PRN-DESK01">9aee66e0c370131055657242b40131ef</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010010</number>
+<opened_at>2026-11-23 19:54:24</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Front desk printer jammed</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:24</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>7e6687ecc3f0131055657242b4013117</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:24</sys_updated_on>
+<task_effective_number>INC0010010</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>7e6687ecc3f0131055657242b4013117</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:24</sys_created_on>
+<sys_id>7e6687ecc3f0131055657242b4013119</sys_id>
+<value>Auto-assigned to WH Hardware (support group for WH-PRN-DESK01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Hardware" name="WH Hardware">dc424572c36c131055657242b401319b</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>hardware</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-PRN-LAB01">eede26e0c370131055657242b401311c</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010009</number>
+<opened_at>2026-11-23 19:54:24</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Lab printer shows offline</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:24</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>6e6647ecc3f0131055657242b40131f3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:24</sys_updated_on>
+<task_effective_number>INC0010009</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>6e6647ecc3f0131055657242b40131f3</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:24</sys_created_on>
+<sys_id>226647ecc3f0131055657242b40131f6</sys_id>
+<value>Auto-assigned to WH Hardware (support group for WH-PRN-LAB01).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>network</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-3F">feae6ea0c370131055657242b40131b2</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>2</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010008</number>
+<opened_at>2026-11-23 19:54:23</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>2</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>No Wi-Fi signal in room 3014</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:23</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>ae6647ecc3f0131055657242b40131ce</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:23</sys_updated_on>
+<task_effective_number>INC0010008</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>1</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>ae6647ecc3f0131055657242b40131ce</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:23</sys_created_on>
+<sys_id>ae6647ecc3f0131055657242b40131d0</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-AP-3F).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>network</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-2F">279eeaa0c370131055657242b40131d9</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>2</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010007</number>
+<opened_at>2026-11-23 19:54:23</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>3</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Wi-Fi drops every few minutes on floor 2</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:23</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>526647ecc3f0131055657242b4013179</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:23</sys_updated_on>
+<task_effective_number>INC0010007</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>2</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>526647ecc3f0131055657242b4013179</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:23</sys_created_on>
+<sys_id>526647ecc3f0131055657242b401317b</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-AP-2F).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value=""/>
+<category>network</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-3F">feae6ea0c370131055657242b40131b2</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description>Sample ticket generated for the Whitetop Hall service desk project.</description>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>2</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010006</number>
+<opened_at>2026-11-23 19:54:22</opened_at>
+<opened_by display_value="WH API Integration">7935436cc3f0131055657242b4013142</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>2</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>No Wi-Fi signal in room 3014</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:22</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>4e6607ecc3f0131055657242b40131f9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>wh.api.integration</sys_updated_by>
+<sys_updated_on>2026-11-23 19:54:22</sys_updated_on>
+<task_effective_number>INC0010006</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>1</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>4e6607ecc3f0131055657242b40131f9</element_id>
+<name>incident</name>
+<sys_created_by>wh.api.integration</sys_created_by>
+<sys_created_on>2026-11-23 19:54:22</sys_created_on>
+<sys_id>0e6647ecc3f0131055657242b401312d</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-AP-3F).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</caller_id>
+<category>inquiry</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-CORE-SW01">c4cde260c370131055657242b401314f</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>1</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010005</number>
+<opened_at>2026-11-23 19:32:20</opened_at>
+<opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>1</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Entire building lost internet</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 19:33:01</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>6f5103a4c3f0131055657242b40131ba</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2026-11-23 19:33:03</sys_updated_on>
+<task_effective_number>INC0010005</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>1</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>6f5103a4c3f0131055657242b40131ba</element_id>
+<name>incident</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 19:33:01</sys_created_on>
+<sys_id>158187a4c3f0131055657242b4013199</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-CORE-SW01).</value>
+</sys_journal_field>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>6f5103a4c3f0131055657242b40131ba</element_id>
+<name>incident</name>
+<sys_created_by>system</sys_created_by>
+<sys_created_on>2026-11-23 19:33:03</sys_created_on>
+<sys_id>c6810ba4c3f0131055657242b4013128</sys_id>
+<value>P1 alert sent to on-call.</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</caller_id>
+<category>inquiry</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-3F">feae6ea0c370131055657242b40131b2</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010004</number>
+<opened_at>2026-11-23 19:22:12</opened_at>
+<opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>No Wi-Fi signal in room 3014</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 19:22:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>830f7260c3f0131055657242b40131fe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 19:22:34</sys_updated_on>
+<task_effective_number>INC0010004</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>830f7260c3f0131055657242b40131fe</element_id>
+<name>incident</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 19:22:35</sys_created_on>
+<sys_id>202f3264c3b0131055657242b401316d</sys_id>
+<value>Auto-assigned to WH Network (support group for WH-AP-3F).</value>
+</sys_journal_field>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</caller_id>
+<category>inquiry</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-2F">279eeaa0c370131055657242b40131d9</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010003</number>
+<opened_at>2026-11-23 19:19:50</opened_at>
+<opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>API test: Wi-Fi drops on floor 2</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 19:19:50</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>2c8e7220c3f0131055657242b4013179</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 19:19:50</sys_updated_on>
+<task_effective_number>INC0010003</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</caller_id>
+<category>inquiry</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-AP-2F">279eeaa0c370131055657242b40131d9</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010002</number>
+<opened_at>2026-11-23 19:18:19</opened_at>
+<opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Wi-Fi drops every few minutes on floor 2</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 19:18:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>022e7aacc3b0131055657242b401311b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 19:18:56</sys_updated_on>
+<task_effective_number>INC0010002</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+<incident action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value="WH Hardware" name="WH Hardware">dc424572c36c131055657242b401319b</assignment_group>
+<business_duration/>
+<business_impact/>
+<business_service display_value=""/>
+<business_stc/>
+<calendar_duration/>
+<calendar_stc/>
+<caller_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</caller_id>
+<category>inquiry</category>
+<cause/>
+<child_incidents>0</child_incidents>
+<close_code/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value="WH-PRN-LAB01">eede26e0c370131055657242b401311c</cmdb_ci>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<contact_type/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<hold_reason/>
+<impact>3</impact>
+<incident_state>1</incident_state>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notify>1</notify>
+<number>INC0010001</number>
+<opened_at>2026-11-23 19:15:57</opened_at>
+<opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<origin_id/>
+<origin_table/>
+<parent display_value=""/>
+<parent_incident display_value=""/>
+<priority>4</priority>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<reopen_count>0</reopen_count>
+<reopened_by display_value=""/>
+<reopened_time/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<severity>3</severity>
+<short_description>Lab printer shows offline</short_description>
+<sla_due/>
+<state>1</state>
+<subcategory/>
+<sys_class_name>incident</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 19:16:28</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>239d3e6cc3b0131055657242b4013117</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 19:16:28</sys_updated_on>
+<task_effective_number>INC0010001</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</incident>
+</unload>

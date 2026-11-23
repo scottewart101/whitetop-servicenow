@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-23 20:29:44">
+<sys_user_group action="INSERT_OR_UPDATE">
+<active>true</active>
+<cost_center display_value=""/>
+<default_assignee display_value=""/>
+<description>Handles account lockouts, password resets, and the authentication server for Whitetop Hall</description>
+<email/>
+<exclude_manager>false</exclude_manager>
+<include_members>false</include_members>
+<manager display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</manager>
+<name>WH Accounts</name>
+<parent display_value=""/>
+<roles/>
+<source/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-17 23:53:40</sys_created_on>
+<sys_id>4e8389f2c36c131055657242b40131ca</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-17 23:53:40</sys_updated_on>
+<type/>
+</sys_user_group>
+<sys_user_group action="INSERT_OR_UPDATE">
+<active>true</active>
+<cost_center display_value=""/>
+<default_assignee display_value=""/>
+<description>Handles printers, the front desk PC, and the print server for Whitetop Hall</description>
+<email/>
+<exclude_manager>false</exclude_manager>
+<include_members>false</include_members>
+<manager display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</manager>
+<name>WH Hardware</name>
+<parent display_value=""/>
+<roles/>
+<source/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-17 23:47:59</sys_created_on>
+<sys_id>dc424572c36c131055657242b401319b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-17 23:47:59</sys_updated_on>
+<type/>
+</sys_user_group>
+<sys_user_group action="INSERT_OR_UPDATE">
+<active>true</active>
+<cost_center display_value=""/>
+<default_assignee display_value=""/>
+<description>Handles Wi-Fi, access points, and the core switch for Whitetop Hall</description>
+<email/>
+<exclude_manager>false</exclude_manager>
+<include_members>false</include_members>
+<manager display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</manager>
+<name>WH Network</name>
+<parent display_value=""/>
+<roles/>
+<source/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-17 23:41:09</sys_created_on>
+<sys_id>bd50cd7ec32c131055657242b4013190</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-17 23:41:09</sys_updated_on>
+<type/>
+</sys_user_group>
+</unload>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-23 20:32:57">
+<kb_knowledge action="INSERT_OR_UPDATE">
+<active>true</active>
+<article_id>75fbee2cc330131055657242b4013177</article_id>
+<article_type>text</article_type>
+<author display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</author>
+<base_version display_value=""/>
+<can_read_user_criteria/>
+<cannot_read_user_criteria/>
+<category/>
+<cmdb_ci display_value=""/>
+<comments/>
+<description/>
+<direct>false</direct>
+<disable_commenting>false</disable_commenting>
+<disable_suggesting>false</disable_suggesting>
+<display_attachments>false</display_attachments>
+<display_number>KB0010009 v1.0</display_number>
+<editor_type>ECE</editor_type>
+<flagged>false</flagged>
+<generated_with_now_assist>false</generated_with_now_assist>
+<helpful_count>0</helpful_count>
+<image/>
+<instrumentation_metadata>{"firstLoadTimestamp":1795456729955,"isGenAiGenerated":false,"isGenAiMultiTaskCancelled":false,"taskList":[],"timeTakenToFirstSave":11247,"timeTakenToPublish":217119}</instrumentation_metadata>
+<kb_category display_value=""/>
+<kb_knowledge_base display_value="IT">a7e8a78bff0221009b20ffffffffff17</kb_knowledge_base>
+<latest>true</latest>
+<latest_aqi display_value=""/>
+<markdown/>
+<meta/>
+<meta_description>Check that the printer is powered on and shows no error lights. Turn the printer off, wait 30 seconds,</meta_description>
+<number>KB0010009</number>
+<ownership_group display_value=""/>
+<published>2026-11-23</published>
+<rating/>
+<replacement_article display_value=""/>
+<retired/>
+<revised_by display_value=""/>
+<roles/>
+<scheduled_publish_date/>
+<short_description>Fix a printer that shows offline</short_description>
+<source display_value=""/>
+<summary display_value="KB0010009">a40c626cc330131055657242b40131b3</summary>
+<sys_class_name>kb_knowledge</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 17:59:01</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>75fbee2cc330131055657242b4013177</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:02:27</sys_updated_on>
+<sys_view_count>0</sys_view_count>
+<taxonomy_topic display_value=""/>
+<text><![CDATA[<div><ol id="imr5" style="list-style-position: inside;"><li>Check that the printer is powered on and shows no error lights.</li><li>Turn the printer off, wait 30 seconds, and turn it back on.</li><li>On your computer, remove the printer and add it again.</li><li>Make sure your computer is on the residence hall network, not guest Wi-Fi.</li><li>Still offline? Submit an incident and select the printer as the affected item.</li></ol></div>]]></text>
+<topic>General</topic>
+<use_count>0</use_count>
+<valid_to>2100-01-01</valid_to>
+<version display_value="1.0">76cc6eacc330131055657242b40131db</version>
+<view_as_allowed>true</view_as_allowed>
+<wiki/>
+<workflow_state>published</workflow_state>
+</kb_knowledge>
+<kb_knowledge action="INSERT_OR_UPDATE">
+<active>true</active>
+<article_id>01cba62cc330131055657242b40131bc</article_id>
+<article_type>text</article_type>
+<author display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</author>
+<base_version display_value=""/>
+<can_read_user_criteria/>
+<cannot_read_user_criteria/>
+<category/>
+<cmdb_ci display_value=""/>
+<comments/>
+<description/>
+<direct>false</direct>
+<disable_commenting>false</disable_commenting>
+<disable_suggesting>false</disable_suggesting>
+<display_attachments>false</display_attachments>
+<display_number>KB0010006 v1.0</display_number>
+<editor_type>ECE</editor_type>
+<flagged>false</flagged>
+<generated_with_now_assist>false</generated_with_now_assist>
+<helpful_count>0</helpful_count>
+<image/>
+<instrumentation_metadata>{"firstLoadTimestamp":1795456678231,"isGenAiGenerated":false,"isGenAiMultiTaskCancelled":false,"taskList":[],"timeTakenToFirstSave":29711,"timeTakenToPublish":250730}</instrumentation_metadata>
+<kb_category display_value=""/>
+<kb_knowledge_base display_value="IT">a7e8a78bff0221009b20ffffffffff17</kb_knowledge_base>
+<latest>true</latest>
+<latest_aqi display_value=""/>
+<markdown/>
+<meta/>
+<meta_description>Go to the university password reset page and enter your NetID. Verify your identity with your registered</meta_description>
+<number>KB0010006</number>
+<ownership_group display_value=""/>
+<published>2026-11-23</published>
+<rating/>
+<replacement_article display_value=""/>
+<retired/>
+<revised_by display_value=""/>
+<roles/>
+<scheduled_publish_date/>
+<short_description>Reset your university account password</short_description>
+<source display_value=""/>
+<summary display_value="KB0010006">90eb6a2cc330131055657242b401319b</summary>
+<sys_class_name>kb_knowledge</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 17:58:27</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>01cba62cc330131055657242b40131bc</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:02:09</sys_updated_on>
+<sys_view_count>0</sys_view_count>
+<taxonomy_topic display_value=""/>
+<text><![CDATA[<div><ol class="ece-inline-style" style="list-style-position: inside;; list-style-position: inside;"><li>Go to the university password reset page and enter your NetID.</li><li>Verify your identity with your registered phone or backup email.</li><li>Create a new password (12&#43; characters, not one you&#39;ve used before).</li><li>Sign back in to Wi-Fi and email with the new password.</li><li>Locked out after 5 tries? Submit an incident to the WH Accounts team.</li></ol></div>]]></text>
+<topic>General</topic>
+<use_count>0</use_count>
+<valid_to>2100-01-01</valid_to>
+<version display_value="1.0">12bceaacc330131055657242b4013176</version>
+<view_as_allowed>true</view_as_allowed>
+<wiki/>
+<workflow_state>published</workflow_state>
+</kb_knowledge>
+<kb_knowledge action="INSERT_OR_UPDATE">
+<active>true</active>
+<article_id>bf0a2a28c330131055657242b40131dc</article_id>
+<article_type>text</article_type>
+<author display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</author>
+<base_version display_value=""/>
+<can_read_user_criteria/>
+<cannot_read_user_criteria/>
+<category/>
+<cmdb_ci display_value=""/>
+<comments/>
+<description/>
+<direct>false</direct>
+<disable_commenting>false</disable_commenting>
+<disable_suggesting>false</disable_suggesting>
+<display_attachments>false</display_attachments>
+<display_number>KB0010003 v1.0</display_number>
+<editor_type>ECE</editor_type>
+<flagged>false</flagged>
+<generated_with_now_assist>false</generated_with_now_assist>
+<helpful_count>0</helpful_count>
+<image/>
+<instrumentation_metadata>{"firstLoadTimestamp":1795456231122,"isGenAiGenerated":false,"isGenAiMultiTaskCancelled":false,"taskList":[],"timeTakenToFirstSave":122077,"timeTakenToPublish":393704}</instrumentation_metadata>
+<kb_category display_value=""/>
+<kb_knowledge_base display_value="IT">a7e8a78bff0221009b20ffffffffff17</kb_knowledge_base>
+<latest>true</latest>
+<latest_aqi display_value=""/>
+<markdown/>
+<meta/>
+<meta_description>Find your console's MAC address in its network settings. In the portal, submit a Guest Device Wi-Fi Access</meta_description>
+<number>KB0010003</number>
+<ownership_group display_value=""/>
+<published>2026-11-23</published>
+<rating/>
+<replacement_article display_value=""/>
+<retired/>
+<revised_by display_value=""/>
+<roles/>
+<scheduled_publish_date/>
+<short_description>Connect a gaming console to residence hall Wi-Fi</short_description>
+<source display_value=""/>
+<summary display_value="KB0010003">f58a2a68c330131055657242b4013131</summary>
+<sys_class_name>kb_knowledge</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 17:52:33</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>bf0a2a28c330131055657242b40131dc</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 17:57:04</sys_updated_on>
+<sys_view_count>0</sys_view_count>
+<taxonomy_topic display_value=""/>
+<text><![CDATA[<div><ol class="ece-inline-style" style="list-style-position: inside;; list-style-position: inside;"><li>Find your console&#39;s MAC address in its network settings.</li><li>In the portal, submit a Guest Device Wi-Fi Access request with your device type, MAC address, and room number.</li><li>Wait for the confirmation email (usually within 1 business day).</li><li>Connect your console to the residence hall device network.</li><li>Still not working? Contact the Whitetop Hall front desk.</li></ol></div>]]></text>
+<topic>General</topic>
+<use_count>0</use_count>
+<valid_to>2100-01-01</valid_to>
+<version display_value="1.0">849b6ee8c330131055657242b40131cd</version>
+<view_as_allowed>true</view_as_allowed>
+<wiki/>
+<workflow_state>published</workflow_state>
+</kb_knowledge>
+</unload>

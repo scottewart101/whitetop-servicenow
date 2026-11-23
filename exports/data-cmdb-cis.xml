@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-23 20:30:38">
+<cmdb_ci_netgear action="INSERT_OR_UPDATE">
+<asset display_value="Unknown">87af6e24c370131055657242b4013119</asset>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<bandwidth/>
+<business_unit display_value=""/>
+<can_hub>false</can_hub>
+<can_partitionvlans>false</can_partitionvlans>
+<can_print>false</can_print>
+<can_route>false</can_route>
+<can_switch>false</can_switch>
+<category>Hardware</category>
+<change_control display_value=""/>
+<channels/>
+<checked_in/>
+<checked_out/>
+<comments/>
+<company display_value=""/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<cpu_count>1</cpu_count>
+<cpu_manufacturer display_value=""/>
+<cpu_speed/>
+<cpu_type/>
+<default_gateway/>
+<delivery_date/>
+<department display_value=""/>
+<device_type/>
+<discovery_proto_id/>
+<discovery_proto_type/>
+<discovery_source/>
+<disk_space/>
+<dns_domain/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<environment/>
+<fault_count>0</fault_count>
+<firmware_manufacturer display_value=""/>
+<firmware_version/>
+<first_discovered/>
+<fqdn/>
+<gl_account/>
+<hardware_status>installed</hardware_status>
+<hardware_substatus/>
+<install_date/>
+<install_status>1</install_status>
+<internet_facing>true</internet_facing>
+<invoice_number/>
+<ip_address/>
+<justification/>
+<last_discovered/>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value="Unknown">47af6e24c370131055657242b4013118</model_id>
+<model_number/>
+<monitor>false</monitor>
+<most_frequent_user display_value=""/>
+<name>WH-AP-1F</name>
+<operational_status>1</operational_status>
+<order_date/>
+<owned_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owned_by>
+<physical_interface_count/>
+<po_number/>
+<ports/>
+<product_instance_id/>
+<purchase_date/>
+<ram/>
+<range/>
+<schedule display_value=""/>
+<serial_number/>
+<short_description/>
+<skip_sync>false</skip_sync>
+<snmp_sys_location/>
+<start_date/>
+<subcategory>Network</subcategory>
+<support_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_netgear</sys_class_name>
+<sys_class_path>/!!/!2/!!</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:10:10</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>2d8e6aa0c370131055657242b401319e</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:16:25</sys_updated_on>
+<unverified>false</unverified>
+<vendor display_value=""/>
+<warranty_expiration/>
+</cmdb_ci_netgear>
+<cmdb_ci_netgear action="INSERT_OR_UPDATE">
+<asset display_value="Unknown">97af6e24c370131055657242b4013131</asset>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<bandwidth/>
+<business_unit display_value=""/>
+<can_hub>false</can_hub>
+<can_partitionvlans>false</can_partitionvlans>
+<can_print>false</can_print>
+<can_route>false</can_route>
+<can_switch>false</can_switch>
+<category>Hardware</category>
+<change_control display_value=""/>
+<channels/>
+<checked_in/>
+<checked_out/>
+<comments/>
+<company display_value=""/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<cpu_count>1</cpu_count>
+<cpu_manufacturer display_value=""/>
+<cpu_speed/>
+<cpu_type/>
+<default_gateway/>
+<delivery_date/>
+<department display_value=""/>
+<device_type/>
+<discovery_proto_id/>
+<discovery_proto_type/>
+<discovery_source/>
+<disk_space/>
+<dns_domain/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<environment/>
+<fault_count>0</fault_count>
+<firmware_manufacturer display_value=""/>
+<firmware_version/>
+<first_discovered/>
+<fqdn/>
+<gl_account/>
+<hardware_status>installed</hardware_status>
+<hardware_substatus/>
+<install_date/>
+<install_status>1</install_status>
+<internet_facing>true</internet_facing>
+<invoice_number/>
+<ip_address/>
+<justification/>
+<last_discovered/>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value="Unknown">47af6e24c370131055657242b4013118</model_id>
+<model_number/>
+<monitor>false</monitor>
+<most_frequent_user display_value=""/>
+<name>WH-AP-2F</name>
+<operational_status>1</operational_status>
+<order_date/>
+<owned_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owned_by>
+<physical_interface_count/>
+<po_number/>
+<ports/>
+<product_instance_id/>
+<purchase_date/>
+<ram/>
+<range/>
+<schedule display_value=""/>
+<serial_number/>
+<short_description/>
+<skip_sync>false</skip_sync>
+<snmp_sys_location/>
+<start_date/>
+<subcategory>Network</subcategory>
+<support_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_netgear</sys_class_name>
+<sys_class_path>/!!/!2/!!</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:10:29</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>279eeaa0c370131055657242b40131d9</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:57:37</sys_updated_on>
+<unverified>false</unverified>
+<vendor display_value=""/>
+<warranty_expiration/>
+</cmdb_ci_netgear>
+<cmdb_ci_netgear action="INSERT_OR_UPDATE">
+<asset display_value="Unknown">8faf6e24c370131055657242b401311d</asset>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<bandwidth/>
+<business_unit display_value=""/>
+<can_hub>false</can_hub>
+<can_partitionvlans>false</can_partitionvlans>
+<can_print>false</can_print>
+<can_route>false</can_route>
+<can_switch>false</can_switch>
+<category>Hardware</category>
+<change_control display_value=""/>
+<channels/>
+<checked_in/>
+<checked_out/>
+<comments/>
+<company display_value=""/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<cpu_count>1</cpu_count>
+<cpu_manufacturer display_value=""/>
+<cpu_speed/>
+<cpu_type/>
+<default_gateway/>
+<delivery_date/>
+<department display_value=""/>
+<device_type/>
+<discovery_proto_id/>
+<discovery_proto_type/>
+<discovery_source/>
+<disk_space/>
+<dns_domain/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<environment/>
+<fault_count>0</fault_count>
+<firmware_manufacturer display_value=""/>
+<firmware_version/>
+<first_discovered/>
+<fqdn/>
+<gl_account/>
+<hardware_status>installed</hardware_status>
+<hardware_substatus/>
+<install_date/>
+<install_status>1</install_status>
+<internet_facing>true</internet_facing>
+<invoice_number/>
+<ip_address/>
+<justification/>
+<last_discovered/>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value="Unknown">47af6e24c370131055657242b4013118</model_id>
+<model_number/>
+<monitor>false</monitor>
+<most_frequent_user display_value=""/>
+<name>WH-AP-3F</name>
+<operational_status>1</operational_status>
+<order_date/>
+<owned_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owned_by>
+<physical_interface_count/>
+<po_number/>
+<ports/>
+<product_instance_id/>
+<purchase_date/>
+<ram/>
+<range/>
+<schedule display_value=""/>
+<serial_number/>
+<short_description/>
+<skip_sync>false</skip_sync>
+<snmp_sys_location/>
+<start_date/>
+<subcategory>Network</subcategory>
+<support_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_netgear</sys_class_name>
+<sys_class_path>/!!/!2/!!</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:10:47</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>feae6ea0c370131055657242b40131b2</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:17:10</sys_updated_on>
+<unverified>false</unverified>
+<vendor display_value=""/>
+<warranty_expiration/>
+</cmdb_ci_netgear>
+<cmdb_ci_ip_switch action="INSERT_OR_UPDATE">
+<asset display_value="Unknown">13af6e24c370131055657242b401312d</asset>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<bandwidth/>
+<business_unit display_value=""/>
+<can_hub>false</can_hub>
+<can_partitionvlans>false</can_partitionvlans>
+<can_print>false</can_print>
+<can_route>false</can_route>
+<can_switch>false</can_switch>
+<category>Resource</category>
+<change_control display_value=""/>
+<channels/>
+<checked_in/>
+<checked_out/>
+<comments/>
+<company display_value=""/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<cpu_count>1</cpu_count>
+<cpu_manufacturer display_value=""/>
+<cpu_speed/>
+<cpu_type/>
+<default_gateway/>
+<delivery_date/>
+<department display_value=""/>
+<device_type/>
+<discovery_proto_id/>
+<discovery_proto_type/>
+<discovery_source/>
+<disk_space/>
+<dns_domain/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<environment/>
+<fault_count>0</fault_count>
+<firmware_manufacturer display_value=""/>
+<firmware_version/>
+<first_discovered/>
+<fqdn/>
+<gl_account/>
+<hardware_status>installed</hardware_status>
+<hardware_substatus/>
+<install_date/>
+<install_status>1</install_status>
+<internet_facing>true</internet_facing>
+<invoice_number/>
+<ip_address>10.10.0.1</ip_address>
+<justification/>
+<last_discovered/>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value="Unknown">dfaf6e24c370131055657242b401312b</model_id>
+<model_number/>
+<monitor>false</monitor>
+<most_frequent_user display_value=""/>
+<name>WH-CORE-SW01</name>
+<operational_status>1</operational_status>
+<order_date/>
+<owned_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owned_by>
+<physical_interface_count/>
+<po_number/>
+<ports/>
+<product_instance_id/>
+<purchase_date/>
+<ram/>
+<range/>
+<schedule display_value=""/>
+<serial_number/>
+<short_description>Core switch for Whitetop Hall</short_description>
+<skip_sync>false</skip_sync>
+<snmp_sys_location/>
+<stack>false</stack>
+<stack_mode/>
+<start_date/>
+<subcategory>IP</subcategory>
+<support_group display_value="WH Network" name="WH Network">bd50cd7ec32c131055657242b4013190</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_ip_switch</sys_class_name>
+<sys_class_path>/!!/!2/!!/!,</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:09:10</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>c4cde260c370131055657242b401314f</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:17:25</sys_updated_on>
+<unverified>false</unverified>
+<vendor display_value=""/>
+<warranty_expiration/>
+</cmdb_ci_ip_switch>
+<cmdb_ci_computer action="INSERT_OR_UPDATE">
+<asset display_value="Unknown">93af6e24c370131055657242b4013122</asset>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<business_unit display_value=""/>
+<can_print>false</can_print>
+<category>Hardware</category>
+<cd_rom>false</cd_rom>
+<cd_speed/>
+<change_control display_value=""/>
+<chassis_type/>
+<checked_in/>
+<checked_out/>
+<comments/>
+<company display_value=""/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<cpu_core_count/>
+<cpu_core_thread/>
+<cpu_count/>
+<cpu_manufacturer display_value=""/>
+<cpu_name/>
+<cpu_speed/>
+<cpu_type/>
+<default_gateway/>
+<delivery_date/>
+<department display_value=""/>
+<discovery_source/>
+<disk_space/>
+<dns_domain/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<environment/>
+<fault_count>0</fault_count>
+<first_discovered/>
+<floppy/>
+<form_factor/>
+<fqdn/>
+<gl_account/>
+<hardware_status>installed</hardware_status>
+<hardware_substatus/>
+<install_date/>
+<install_status>1</install_status>
+<internet_facing>true</internet_facing>
+<invoice_number/>
+<ip_address/>
+<justification/>
+<last_discovered/>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value="Unknown">53af6e24c370131055657242b4013121</model_id>
+<model_number/>
+<monitor>false</monitor>
+<most_frequent_user display_value=""/>
+<name>WH-PC-DESK01</name>
+<object_id/>
+<operational_status>1</operational_status>
+<order_date/>
+<os/>
+<os_address_width/>
+<os_domain/>
+<os_service_pack/>
+<os_version/>
+<owned_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owned_by>
+<po_number/>
+<product_instance_id/>
+<purchase_date/>
+<ram/>
+<schedule display_value=""/>
+<serial_number/>
+<short_description/>
+<skip_sync>false</skip_sync>
+<start_date/>
+<subcategory>Computer</subcategory>
+<support_group display_value="WH Hardware" name="WH Hardware">dc424572c36c131055657242b401319b</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_computer</sys_class_name>
+<sys_class_path>/!!/!2/!(</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:12:02</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>b1fee6e0c370131055657242b40131f2</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:57:44</sys_updated_on>
+<unverified>false</unverified>
+<vendor display_value=""/>
+<virtual>false</virtual>
+<warranty_expiration/>
+</cmdb_ci_computer>
+<cmdb_ci_printer action="INSERT_OR_UPDATE">
+<asset display_value="Unknown">b2af2e24c370131055657242b4013172</asset>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<business_unit display_value=""/>
+<can_print>false</can_print>
+<category>Hardware</category>
+<change_control display_value=""/>
+<checked_in/>
+<checked_out/>
+<color>false</color>
+<colors/>
+<comments/>
+<company display_value=""/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<default_gateway/>
+<delivery_date/>
+<department display_value=""/>
+<discovery_source/>
+<dns_domain/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<environment/>
+<fault_count>0</fault_count>
+<first_discovered/>
+<fqdn/>
+<gl_account/>
+<hardware_status>installed</hardware_status>
+<hardware_substatus/>
+<horizontal_resolution/>
+<install_date/>
+<install_status>1</install_status>
+<internet_facing>true</internet_facing>
+<invoice_number/>
+<ip_address/>
+<justification/>
+<last_discovered/>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value="Unknown">a6af2e24c370131055657242b401316b</model_id>
+<model_number/>
+<monitor>false</monitor>
+<most_frequent_user display_value=""/>
+<name>WH-PRN-DESK01</name>
+<operational_status>1</operational_status>
+<order_date/>
+<owned_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owned_by>
+<paper/>
+<pcl>false</pcl>
+<po_number/>
+<postscript>false</postscript>
+<ppm/>
+<print_type>Laser</print_type>
+<product_instance_id/>
+<purchase_date/>
+<resolution_units/>
+<schedule display_value=""/>
+<serial_number/>
+<short_description/>
+<skip_sync>false</skip_sync>
+<start_date/>
+<subcategory>Printer</subcategory>
+<support_group display_value="WH Hardware" name="WH Hardware">dc424572c36c131055657242b401319b</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_printer</sys_class_name>
+<sys_class_path>/!!/!2/!*</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:11:46</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>9aee66e0c370131055657242b40131ef</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:18:33</sys_updated_on>
+<unverified>false</unverified>
+<use_count/>
+<use_units/>
+<vendor display_value=""/>
+<vertical_resolution/>
+<warranty_expiration/>
+</cmdb_ci_printer>
+<cmdb_ci_printer action="INSERT_OR_UPDATE">
+<asset display_value="Unknown">07af2e24c370131055657242b40131fc</asset>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<business_unit display_value=""/>
+<can_print>false</can_print>
+<category>Hardware</category>
+<change_control display_value=""/>
+<checked_in/>
+<checked_out/>
+<color>false</color>
+<colors/>
+<comments/>
+<company display_value=""/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<default_gateway/>
+<delivery_date/>
+<department display_value=""/>
+<discovery_source/>
+<dns_domain/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<environment/>
+<fault_count>0</fault_count>
+<first_discovered/>
+<fqdn/>
+<gl_account/>
+<hardware_status>installed</hardware_status>
+<hardware_substatus/>
+<horizontal_resolution/>
+<install_date/>
+<install_status>1</install_status>
+<internet_facing>true</internet_facing>
+<invoice_number/>
+<ip_address/>
+<justification/>
+<last_discovered/>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value="Unknown">a6af2e24c370131055657242b401316b</model_id>
+<model_number/>
+<monitor>false</monitor>
+<most_frequent_user display_value=""/>
+<name>WH-PRN-LAB01</name>
+<operational_status>1</operational_status>
+<order_date/>
+<owned_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owned_by>
+<paper/>
+<pcl>false</pcl>
+<po_number/>
+<postscript>false</postscript>
+<ppm/>
+<print_type>Laser</print_type>
+<product_instance_id/>
+<purchase_date/>
+<resolution_units/>
+<schedule display_value=""/>
+<serial_number/>
+<short_description/>
+<skip_sync>false</skip_sync>
+<start_date/>
+<subcategory>Printer</subcategory>
+<support_group display_value="WH Hardware" name="WH Hardware">dc424572c36c131055657242b401319b</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_printer</sys_class_name>
+<sys_class_path>/!!/!2/!*</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:11:30</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>eede26e0c370131055657242b401311c</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:57:45</sys_updated_on>
+<unverified>false</unverified>
+<use_count/>
+<use_units/>
+<vendor display_value=""/>
+<vertical_resolution/>
+<warranty_expiration/>
+</cmdb_ci_printer>
+<cmdb_ci_win_server action="INSERT_OR_UPDATE">
+<asset display_value="Unknown">dbaf6e24c370131055657242b4013134</asset>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<business_unit display_value=""/>
+<can_print>false</can_print>
+<category>Hardware</category>
+<cd_rom>false</cd_rom>
+<cd_speed/>
+<change_control display_value=""/>
+<chassis_type/>
+<checked_in/>
+<checked_out/>
+<classification>Production</classification>
+<comments/>
+<company display_value=""/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<cpu_core_count/>
+<cpu_core_thread/>
+<cpu_count/>
+<cpu_manufacturer display_value=""/>
+<cpu_name/>
+<cpu_speed/>
+<cpu_type/>
+<default_gateway/>
+<delivery_date/>
+<department display_value=""/>
+<discovery_source/>
+<disk_space/>
+<dns_domain/>
+<dr_backup display_value=""/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<environment/>
+<fault_count>0</fault_count>
+<firewall_status>Intranet</firewall_status>
+<first_discovered/>
+<floppy/>
+<form_factor/>
+<fqdn/>
+<gl_account/>
+<hardware_status>installed</hardware_status>
+<hardware_substatus/>
+<host_name/>
+<install_date/>
+<install_status>1</install_status>
+<internet_facing>true</internet_facing>
+<invoice_number/>
+<ip_address/>
+<justification/>
+<last_discovered/>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value="Unknown">1baf6e24c370131055657242b4013126</model_id>
+<model_number/>
+<monitor>false</monitor>
+<most_frequent_user display_value=""/>
+<name>WH-SRV-AUTH01</name>
+<object_id/>
+<operational_status>1</operational_status>
+<order_date/>
+<os/>
+<os_address_width/>
+<os_domain/>
+<os_service_pack/>
+<os_version/>
+<owned_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owned_by>
+<po_number/>
+<product_instance_id/>
+<purchase_date/>
+<ram/>
+<schedule display_value=""/>
+<serial_number/>
+<short_description/>
+<skip_sync>false</skip_sync>
+<start_date/>
+<subcategory>Computer</subcategory>
+<support_group display_value="WH Accounts" name="WH Accounts">4e8389f2c36c131055657242b40131ca</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_win_server</sys_class_name>
+<sys_class_path>/!!/!2/!(/!!/!#</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:12:19</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>be0feaa0c370131055657242b40131ce</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:19:05</sys_updated_on>
+<unverified>false</unverified>
+<used_for>Production</used_for>
+<vendor display_value=""/>
+<virtual>false</virtual>
+<warranty_expiration/>
+</cmdb_ci_win_server>
+<cmdb_ci_win_server action="INSERT_OR_UPDATE">
+<asset display_value="Unknown">5baf6e24c370131055657242b4013127</asset>
+<asset_tag/>
+<assigned/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<attestation_score/>
+<attestation_status>Not Yet Reviewed</attestation_status>
+<attested>false</attested>
+<attested_by display_value=""/>
+<attested_date/>
+<attributes/>
+<business_unit display_value=""/>
+<can_print>false</can_print>
+<category>Hardware</category>
+<cd_rom>false</cd_rom>
+<cd_speed/>
+<change_control display_value=""/>
+<chassis_type/>
+<checked_in/>
+<checked_out/>
+<classification>Production</classification>
+<comments/>
+<company display_value=""/>
+<correlation_id/>
+<cost/>
+<cost_cc>USD</cost_cc>
+<cost_center display_value=""/>
+<cpu_core_count/>
+<cpu_core_thread/>
+<cpu_count/>
+<cpu_manufacturer display_value=""/>
+<cpu_name/>
+<cpu_speed/>
+<cpu_type/>
+<default_gateway/>
+<delivery_date/>
+<department display_value=""/>
+<discovery_source/>
+<disk_space/>
+<dns_domain/>
+<dr_backup display_value=""/>
+<due/>
+<due_in/>
+<duplicate_of display_value=""/>
+<environment/>
+<fault_count>0</fault_count>
+<firewall_status>Intranet</firewall_status>
+<first_discovered/>
+<floppy/>
+<form_factor/>
+<fqdn/>
+<gl_account/>
+<hardware_status>installed</hardware_status>
+<hardware_substatus/>
+<host_name/>
+<install_date/>
+<install_status>1</install_status>
+<internet_facing>true</internet_facing>
+<invoice_number/>
+<ip_address/>
+<justification/>
+<last_discovered/>
+<lease_id/>
+<life_cycle_stage display_value=""/>
+<life_cycle_stage_status display_value=""/>
+<location display_value=""/>
+<mac_address/>
+<maintenance_schedule display_value=""/>
+<managed_by display_value=""/>
+<managed_by_group display_value=""/>
+<manufacturer display_value=""/>
+<model_id display_value="Unknown">1baf6e24c370131055657242b4013126</model_id>
+<model_number/>
+<monitor>false</monitor>
+<most_frequent_user display_value=""/>
+<name>WH-SRV-PRINT01</name>
+<object_id/>
+<operational_status>1</operational_status>
+<order_date/>
+<os/>
+<os_address_width/>
+<os_domain/>
+<os_service_pack/>
+<os_version/>
+<owned_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owned_by>
+<po_number/>
+<product_instance_id/>
+<purchase_date/>
+<ram/>
+<schedule display_value=""/>
+<serial_number/>
+<short_description/>
+<skip_sync>false</skip_sync>
+<start_date/>
+<subcategory>Computer</subcategory>
+<support_group display_value="WH Hardware" name="WH Hardware">dc424572c36c131055657242b401319b</support_group>
+<supported_by display_value=""/>
+<sys_class_name>cmdb_ci_win_server</sys_class_name>
+<sys_class_path>/!!/!2/!(/!!/!#</sys_class_path>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-11-23 18:11:08</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>b0ce62e0c370131055657242b401317c</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-11-23 18:17:50</sys_updated_on>
+<unverified>false</unverified>
+<used_for>Production</used_for>
+<vendor display_value=""/>
+<virtual>false</virtual>
+<warranty_expiration/>
+</cmdb_ci_win_server>
+</unload>
